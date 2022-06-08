@@ -1756,7 +1756,30 @@ body.is-preload #wrapper {
   }
 }
 
-.job-subtitle {
+#about-me p {
+  text-align: justify;
+}
+#about-me .skills {
+  margin-bottom: 30px;
+}
+#about-me .skills p {
+  margin: 0px;
+}
+#about-me .skills i {
+  margin: 0px 5px;
+}
+
+#about-me .job-subtitle {
+  font-style: italic;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+#about-me .job-place {
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+
+#work .job-subtitle {
   font-style: italic;
   margin-bottom: 10px;
 }

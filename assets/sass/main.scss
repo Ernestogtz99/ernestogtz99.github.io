@@ -851,9 +851,39 @@
 	}
 
 	//Latest Added
-	.job-subtitle{
-		font-style: italic;
-		margin-bottom: 10px;
+	#about-me{
+		p{
+			text-align: justify;
+		}
+
+		.skills{
+			margin-bottom: 30px;
+			p{
+				margin: 0px;
+			}
+			i{
+				margin: 0px 5px;
+			}
+		}
+	}
+
+	#about-me{
+		.job-subtitle{
+			font-style: italic;
+			margin-top: 10px;
+			margin-bottom: 0px;
+		}
+		.job-place{
+			font-weight: 600;
+			margin-bottom: 0px;
+		}
+	}
+	#work
+	{
+		.job-subtitle{
+			font-style: italic;
+			margin-bottom: 10px;
+		}
 	}
 	.job-description{
 		text-align: justify;
