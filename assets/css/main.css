@@ -1798,6 +1798,10 @@ body.is-preload #wrapper {
 .job-evidence {
   width: 100%;
   margin-bottom: 30px;
+  text-align: center;
+}
+.job-evidence .game img {
+  height: 350px;
 }
 
 /*# sourceMappingURL=main.css.map */
